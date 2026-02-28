@@ -1,22 +1,49 @@
 {
-  "header": {
-    "title": "Weekly WT Words",
-    "date": "2026-02-28"
+  "date": "2026.02.28",
+  "article_title": {
+    "en": "You Can Have a Clean Conscience",
+    "vi": "Bạn có thể có lương tâm trong sạch"
   },
-  "topic": {
-    "english": "How to Plan a Wedding That Brings Honor to Jehovah",
-    "vietnamese": "Làm thế nào để có đám cưới tôn vinh Đức Giê-hô-va?"
-  },
-  "entries": [
-    {"en": "wedding", "vi": "đám cưới"},
-    {"en": "engaged", "vi": "đính hôn"},
-    {"en": "Bible-based", "vi": "dựa trên Kinh Thánh"},
-    {"en": "dignified", "vi": "trang trọng"},
-    {"en": "reception", "vi": "tiệc cưới"},
-    {"en": "honor", "vi": "tôn vinh"},
-    {"en": "planning", "vi": "lên kế hoạch"},
-    {"en": "customs", "vi": "phong tục"},
-    {"en": "superstitious", "vi": "mê tín"},
-    {"en": "origin", "vi": "nguồn gốc"}
+  "vocabulary": [
+    {
+      "en": "conscience",
+      "vi": "lương tâm"
+    },
+    {
+      "en": "guilt",
+      "vi": "tội lỗi"
+    },
+    {
+      "en": "purity",
+      "vi": "sự trong sạch"
+    },
+    {
+      "en": "standards",
+      "vi": "tiêu chuẩn"
+    },
+    {
+      "en": "regret",
+      "vi": "hối hận"
+    },
+    {
+      "en": "forgiveness",
+      "vi": "sự tha thứ"
+    },
+    {
+      "en": "peace",
+      "vi": "sự bình an"
+    },
+    {
+      "en": "decisions",
+      "vi": "các quyết định"
+    },
+    {
+      "en": "honesty",
+      "vi": "sự thành thực"
+    },
+    {
+      "en": "rectify",
+      "vi": "sửa sai"
+    }
   ]
 }
