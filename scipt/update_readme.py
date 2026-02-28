@@ -44,9 +44,9 @@ def update_readme():
         # Take up to 5 images
         images = images[:5]
 
-        # Create markdown for images next to each other
-        img_markdown = " ".join([f"![{img}](images/{img})" for img in images])
-        readme_content.append(img_markdown + "\n")
+        # Create HTML for clickable images next to each other
+        img_html = " ".join([f'<a href="images/{img}"><img src="images/{img}" width="49%"></a>' for img in images])
+        readme_content.append(img_html + "\n")
 
     with open(readme_path, 'w') as f:
         f.writelines(readme_content)
